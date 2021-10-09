@@ -306,7 +306,7 @@ function App() {
                   <p className="mt-2 text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl text-center">
                       Companies I've done work for
                   </p>
-                  <div className="grid grid-cols-4 gap-6 px-4">
+                  <div className="grid lg:grid-cols-4 gap-6 px-4 md:grid-cols-2 sm sm:grid-cols-2 xs:grid-cols-1">
                     <div className="flex text-right overflow-hidden justify-center items-center px-10 py-10">
                       <img src="/images/logos/a-logo.png" alt="" className="max-w-full h-full object-contain" />
                     </div>
