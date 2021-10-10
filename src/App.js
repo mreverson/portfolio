@@ -90,12 +90,12 @@ const blogPosts = [
   },
   {
     id: 5,
-    title: 'Slack Clone',
-    href: 'https://slack-clone-khaki.vercel.app/',
+    title: 'Dashboard Template',
+    href: 'https://dashboard-psi-one.vercel.app/',
     imageUrl:
-      '/images/previews/slack-clone-preview.png',
+      '/images/previews/dashboard-preview.png',
     preview:
-      'React, React Router, Firebase, MaterialUI',
+      'React, TailwindCSS, HeroIcon',
   },
   {
     id: 6,
