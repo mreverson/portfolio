@@ -254,7 +254,7 @@ function App() {
                   More About Me...
                 </p>
                 <p className="mt-5 max-w-prose mx-auto text-xl text-gray-500">
-                  I grew up in Phoenix, AZ and graduated from Arizona State University with a degree in Computer Informatics (Human-Computer Interaction). In 2015, I began freelancing for various small-to-medium sized companies developing websites and intenal tools. 
+                  I grew up in Phoenix, AZ and graduated from Arizona State University with a degree in Computer Informatics (Human-Computer Interaction). In 2015, I began freelancing for various small-to-medium sized companies developing websites, web-applications and internal tools. 
                 </p>
 				        <p className="mt-5 max-w-prose mx-auto text-xl text-gray-500">
 					        When I'm not working, I enjoy playing games with friends, collaborating on digital arts projects and visiting coffee shops with my dog. 
@@ -402,7 +402,7 @@ function App() {
                 </h2>
                 <p className="mt-2 text-white text-3xl font-extrabold tracking-tight sm:text-4xl">If you would like to reach me...</p>
                 <p className="mt-3 text-lg text-gray-300">
-                  I am currently contracting under <a className="text-xl text-teal-500 hover:underline hover:pointer" href="https://perfeci.com/">Perfeci</a> and <a className="text-xl text-teal-500 hover:underline hover:pointer" href="https://www.thecollective.io/">The Collective</a>. If you are interested in my services, Please contant me via the buttons below.
+                  I am currently contracting under <a className="text-xl text-teal-500 hover:underline hover:pointer" href="https://perfeci.com/">Perfeci</a> and <a className="text-xl text-teal-500 hover:underline hover:pointer" href="https://www.thecollective.io/">The Collective</a>. If you are interested in my services, Please contact me via the buttons below.
                 </p>
                 <div className="mt-8">
                   <div className="inline-flex rounded-md shadow">
