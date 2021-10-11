@@ -72,12 +72,12 @@ const blogPosts = [
   },
   {
     id: 3,
-    title: 'Disney Plus Clone',
-    href: 'https://disney-plus-clone-rf9ofzaoh-mreverson.vercel.app/',
+    title: 'Netflix Clone',
+    href: 'https://netflix-clone-c2b59.web.app/',
     imageUrl:
-      '/images/previews/disney-plus-preview.png',
+      '/images/previews/netflix-clone-preview.png',
     preview:
-      'React, Redux, Styled Components, Firebase - NOTE: There are ongoing issues with this deploy due to Firebase',
+      'React, Redux, TailwindCSS, Stripe, Authentication, Firebase',
   },
   {
     id: 4,
