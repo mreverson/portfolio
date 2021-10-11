@@ -100,7 +100,7 @@ const blogPosts = [
   {
     id: 6,
     title: 'Tesla Clone',
-    href: 'https://slack-clone-khaki.vercel.app/',
+    href: 'https://tesla-clone-beryl.vercel.app/',
     imageUrl:
       '/images/previews/tesla-clone-preview.png',
     preview:
@@ -364,10 +364,10 @@ function App() {
               </div>
               <div className="mt-12 mx-auto max-w-md px-4 grid gap-8 sm:max-w-lg sm:px-6 lg:px-8 lg:grid-cols-3 lg:max-w-7xl">
                 {blogPosts.map((post) => (
-                  <div key={post.id} className="flex flex-col rounded-lg shadow-lg overflow-hidden">
+                  <div key={post.id} className="flex flex-col border-2 border-gray-100 rounded-lg shadow-lg overflow-hidden transition duration-450 ease-in transform hover:scale-105 cursor-pointer">
                     <a href={post.href} className="block mt-2">
                     <div className="flex-shrink-0">
-                      <img className="h-48 w-full object-cover" src={post.imageUrl} alt="" />
+                      <img className="h-48 pt-3 w-full object-contain" src={post.imageUrl} alt="" />
                     </div>
                     <div className="flex-1 bg-white p-6 flex flex-col justify-between">
                       <div className="flex-1">
