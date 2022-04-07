@@ -343,6 +343,12 @@ function App() {
                     <div className="flex text-right overflow-hidden justify-center items-center px-10 py-10">
                       <img src="/images/logos/collectivelogo.png" alt="" className="max-w-full h-full object-contain" />
                     </div>
+                    <div className="flex text-right overflow-hidden justify-center items-center px-10 py-10">
+                      <img src="/images/logos/amcLogo.jpg" alt="" className="max-w-full h-full object-contain" />
+                    </div>
+                    <div className="flex text-right overflow-hidden justify-center items-center px-10 py-10">
+                      <img src="/images/logos/hi5.png" alt="" className="max-w-full h-full object-contain" />
+                    </div>
                   </div>
                 </div>
               </div>
